@@ -7,7 +7,7 @@
 <tr>
 <td width="150"> &nbsp; </td>
 <td width="550">
-<h1>Change it. My name is Codenvy. What's yours?</h1>
+<h1>Change it New. My name is Codenvy. What's yours?</h1>
 </td>
 </tr>
 <tr>
