@@ -13,8 +13,7 @@ public class TTISiteServlet extends HttpServlet
    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
    {
 
-      response.getWriter().write("<html><body>Pagina mostrada desde codigo Servlet</body></html>");
-     
+      response.getWriter().write("<html><body>Pagina mostrada desde codigo Servlet do Java</body></html>");     
    }
 
 }
