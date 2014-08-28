@@ -9,8 +9,10 @@ import javax.servlet.http.*;
 
 public class TTISiteServlet extends HttpServlet {
 
-  public void teste(){
-    Vector<String> a = new Vector<String>();
-    a.add("mais um valor");
+  protected void doGet( HttpServletRequest request,
+                        HttpServletResponse response)
+        throws ServletException, IOException {
+
+      response.getWriter().write("<html><body>GET response</body></html>");
   }
 }
