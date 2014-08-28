@@ -11,6 +11,6 @@ public class TTISiteServlet extends HttpServlet {
 
   public void teste(){
     Vector<String> a = new Vector<String>();
-    
+    a.add("mais um valor");
   }
 }
