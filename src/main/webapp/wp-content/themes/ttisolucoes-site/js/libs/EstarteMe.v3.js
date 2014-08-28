@@ -497,9 +497,9 @@ window.EstarteMe = window.EstarteMe || {};
 						Effects.Infographic();
 					}
 
-					// Effects.FaqList();
+					Effects.FaqList();
 					//Effects.JobsList();
-					Effects.MentorsList();
+					//Effects.MentorsList();
 					Effects.PartnersList();
 					Effects.StartButton();
 					Timers.Init();
